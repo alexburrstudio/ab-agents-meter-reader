@@ -111,3 +111,14 @@ Format:
 ---
 
 **AB-Agents** 🦀
+
+## Requirements
+
+👁️ **[AB Agents Vision (MiniMax)](https://github.com/alexburrstudio/ab-agents-vision)** — Required for image analysis. Install first:
+```bash
+clawhub install AB-Agents-Vision-MiniMax
+```
+
+---
+
+**AB-Agents** 🦀
